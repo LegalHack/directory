@@ -61,3 +61,10 @@
 * 9/20/16 - Week 3 - Udemy Videos: Section 3: Functions, Section 4: Handling Errors with Try/Except, Section 5: Writing a Complete Program: Guess the Number
 * 9/27/16 - Week 4 - Udemy Videos: Section 6: Lists, Section 7: Dictionaries
 * 10/3/16 - Week 5 - Udemy Videos: Section 8: More About Strings, Section 9: Running Programs from the Command Line
+
+# Project-Stub
+
+* "Coding for Lawyers"
+* New course announcement: "...Next week I, along with a number of colleagues, will be embarking on a new journey - learning to code. We are piloting a course which has been specifically designed for lawyers in conjunction with CodeClan. CodeClan is Scotland's first digital skills academy..."
+* URL: http://www.scl.org/site.aspx?i=ed49068
+* URL: https://www.linkedin.com/pulse/coding-lawyers-john-mckinlay
