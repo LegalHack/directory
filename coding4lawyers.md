@@ -77,9 +77,14 @@ Weekly Lessons
 
 *To see a log of the assignments covered and a bulleted recap of specific lesson points, go to our [Lessons Recap Page](https://github.com/KCLegalHackers/CodingForLawyers/wiki/Lesson-Recaps)*
 
-# Project-Stub
+# Project-Stub: 
 
 * "Coding for Lawyers"
+
+## Project-Stub Info:
+
 * New course announcement: "...Next week I, along with a number of colleagues, will be embarking on a new journey - learning to code. We are piloting a course which has been specifically designed for lawyers in conjunction with CodeClan. CodeClan is Scotland's first digital skills academy..."
+
 * URL: http://www.scl.org/site.aspx?i=ed49068
+
 * URL: https://www.linkedin.com/pulse/coding-lawyers-john-mckinlay
