@@ -1,4 +1,4 @@
-**The "Coding for Lawyers" List of Classes, Books and Other Resources
+**The "Coding for Lawyers" List of Classes, Books and Other Resources**
 
 # Project: 
 
